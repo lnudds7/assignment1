@@ -1,6 +1,8 @@
-<style>
-        a {
-            font-family: fantasy;
-        }
-    </style>
-    
+html {
+    color: darkslategrey;
+}
+
+a {
+    font-family:serif;
+    color: #8d51b9;
+}
